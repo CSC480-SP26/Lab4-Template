@@ -1,4 +1,4 @@
-# Lab 3: Fog of War
+# Lab 4: Fog of War
 
 Your wizard has descended into the deepest chamber of the dungeon dimension, and something has gone terribly wrong. A dark enchantment hangs in the air, a *Fog of War* that has robbed your wizard robot of its sight. It can no longer see the walls, the lava, or the glittering portal home. Worse still, the dungeon's magical currents are unpredictable, even when your wizard tries to move in a chosen direction, the currents may carry it somewhere else entirely.
 
@@ -11,7 +11,7 @@ To get started make sure to install pyglet using the given `pyproject.toml` in o
 
 ## Files You Will Edit
 
-> `lab3.py`: All of your implementation goes here.
+> `lab4.py`: All of your implementation goes here.
 
 ## Files You Might Want to Read
 While these files are pretty similar to your previous assignments, there are some minor differences and it may be worth refreshing your understandings.
